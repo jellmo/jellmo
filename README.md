@@ -1,4 +1,4 @@
-### Hi there, welcome to my github👋
+### Hi, welcome to my github👋
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=000000)](https://www.jetbrains.com/idea/)
