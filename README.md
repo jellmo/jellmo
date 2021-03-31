@@ -14,10 +14,10 @@
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
-I'm jellmo, a college student learning full stack development.
+I'm jellmo, a college student learning full stack development and computational mathematics.
 
 - 🔭 I’m currently study in college.
-- 🌱 My main technology stack is Java, python, matlab and so on...
+- 🌱 My main technology stack is website server, language for Java, python, matlab and so on...
 - 👯 I’m preparing for the postgraduate examination
 - 💬 Ask me about Anything you want~
 - 😄 Pronouns: jellmo
