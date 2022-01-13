@@ -18,7 +18,6 @@ I'm jellmo, a college student learning full stack development and computational 
 
 - 🔭 I’m currently study in college.
 - 🌱 My main technology stack is website server, language for Java, python, matlab and so on...
-- 👯 I’m preparing for the postgraduate examination
 - 💬 Ask me about Anything you want~
 - 😄 Pronouns: jellmo
 - ⚡ Fun fact: Music, Reading, basketball and chess.
