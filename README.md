@@ -23,7 +23,7 @@ I'm jellmo, a college student learning full stack development and computational 
 - ⚡ Fun fact: Music, Reading, basketball and chess.
 
 <p align="center"> 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jellmo&show_icons=true&hide=prs,issues&count_private=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jellmo&show_icons=true&hide=issues&count_private=true">
 </p>
 
 
